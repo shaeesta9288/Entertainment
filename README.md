@@ -67,9 +67,7 @@ $ npm run dev
 
 7. Voila, you're ready to create something awesome!
 
-## 🛠️ Authors
 
-👩‍💻 Gulam Quadir Parwez [@GulamQuadir500](https://github.com/GulamQuadir500)
 
 
 
